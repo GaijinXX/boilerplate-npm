@@ -13,5 +13,6 @@
 	},
 	"author": "Vahid Akhundov",
 	"description": "Just a Test App",
-	"keywords": [ "test", "example", "exercise", "freecodecamp" ]
+	"keywords": [ "test", "example", "exercise", "freecodecamp" ],
+	"license": "MIT"
 }
