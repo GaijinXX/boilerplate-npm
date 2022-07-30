@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Vahid Akhundov",
-	"description": "Just a Test App"
+	"description": "Just a Test App",
+	"keywords": [ "test", "example", "exercise" ]
 }
