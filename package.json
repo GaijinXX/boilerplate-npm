@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Vahid Akhundov"
+	"author": "Vahid Akhundov",
+	"description": "Just a Test App"
 }
